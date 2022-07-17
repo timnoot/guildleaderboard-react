@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/guildleaderboard-react/static/css/main.bfd8ac5e.css",
-    "main.js": "/guildleaderboard-react/static/js/main.eddd3346.js",
+    "main.js": "/guildleaderboard-react/static/js/main.a56f2954.js",
     "index.html": "/guildleaderboard-react/index.html",
     "main.bfd8ac5e.css.map": "/guildleaderboard-react/static/css/main.bfd8ac5e.css.map",
-    "main.eddd3346.js.map": "/guildleaderboard-react/static/js/main.eddd3346.js.map"
+    "main.a56f2954.js.map": "/guildleaderboard-react/static/js/main.a56f2954.js.map"
   },
   "entrypoints": [
     "static/css/main.bfd8ac5e.css",
-    "static/js/main.eddd3346.js"
+    "static/js/main.a56f2954.js"
   ]
 }
