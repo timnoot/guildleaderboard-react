@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.74af6ea7.css",
-    "main.js": "/static/js/main.5802742b.js",
+    "main.css": "/static/css/main.e45db1d4.css",
+    "main.js": "/static/js/main.5038e861.js",
     "index.html": "/index.html",
     "static/media/redexclamation.svg": "/static/media/redexclamation.8e9f7c4498f33ad9741855c4b565cce7.svg",
-    "main.74af6ea7.css.map": "/static/css/main.74af6ea7.css.map",
-    "main.5802742b.js.map": "/static/js/main.5802742b.js.map"
+    "main.e45db1d4.css.map": "/static/css/main.e45db1d4.css.map",
+    "main.5038e861.js.map": "/static/js/main.5038e861.js.map"
   },
   "entrypoints": [
-    "static/css/main.74af6ea7.css",
-    "static/js/main.5802742b.js"
+    "static/css/main.e45db1d4.css",
+    "static/js/main.5038e861.js"
   ]
 }
